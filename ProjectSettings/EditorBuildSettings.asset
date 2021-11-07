@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week5/002/MouseClick002.unity
-    guid: 1ddc850916f021341ab8480b81a16169
-  - enabled: 1
-    path: Assets/Week5/003/Wanderer003.unity
-    guid: 3f3b1ebd1a4b6ba42b4ddfd19156ccc5
+    path: Assets/Week8/003/ProcGen003.unity
+    guid: 94fc92ef2df5a75458776cfb5ca0dbdb
   m_configObjects: {}

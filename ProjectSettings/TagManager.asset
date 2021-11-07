@@ -7,14 +7,19 @@ TagManager:
   - Ground
   - ClickButton
   - GridSystem
+  - Hitbox
+  - Hurtbox
+  - Strawberry
+  - enemy
+  - land
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - Enemy
   - 
   - 
   - 
